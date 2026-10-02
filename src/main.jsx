@@ -203,7 +203,7 @@ function SkillsFlow() {
           <span className="eyebrow">How I work</span>
           <h2 id="skills-heading">From signal<br /><em>to scale.</em></h2>
         </div>
-        <p>A connected product practice that carries an idea from the first question to the people who make it grow.</p>
+        <p>A high-level overview of my core PMM framework to take any company from 0 to 100.</p>
       </div>
       <div className="skills-flow">
         {content.skills.map(([title, description], index) => {

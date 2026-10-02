@@ -11,7 +11,7 @@ export const portfolioContent = {
   skills: [
     ["Research & CI", "AI-assisted market and competitor research flow into data driven decision making."],
     ["Messaging & Positioning", "Transforming complex technology into clear messaging that supports the full product lifecycle."],
-    ["GTM Strategy", "Blend Go-To-Market plan and strategic communications to drive adoption."],
+    ["GTM Strategy", "Blend Go-To-Market plan and strategic communications to drive adoption. Implement LRF to ensure the team is ready for launch."],
     ["Enablement & Distribution", "Develop enablement collateral paired with multi-channel distribution strategies that drive leads and conversions."],
     ["Ecosystem Growth", "Leading multi-partner GTM rollouts to build awareness and support adoption."],
     ["Performance Measuring & Collaboration", "Use on/offchain data to measure and track conversions & KPIs, develop insights to inform the strategy, then iterate."]
